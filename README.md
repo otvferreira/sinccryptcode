@@ -1,5 +1,3 @@
-Aqui está um exemplo de arquivo `README.md` para o código fornecido:
-
 ```markdown
 # Criptografia Simétrica com AES em Python
 
